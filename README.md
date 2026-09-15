@@ -111,7 +111,7 @@ automacao-email/
 
 ## 🔮 Possíveis melhorias futuras
 
-- Interface web (Flask) para facilitar o uso por pessoas sem conhecimento técnico
+- Interface web para facilitar o uso por pessoas sem conhecimento técnico
 - Suporte a envio de e-mails em HTML
 - Suporte a anexos
 - Agendamento de envios automáticos
